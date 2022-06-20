@@ -40,14 +40,14 @@ main {
   /* border: rgb(202, 192, 49) solid 5px; */
   width: 100%;
   height: 571px;
-  background-image: url(/images/gradient.svg);
+  background-image: url(images/gradient.svg);
 }
 .first-section-banner::before {
   position: absolute;
   content: "";
   width: 100%;
   height: 571px;
-  background: url(/images/building.svg) no-repeat center center/cover;
+  background: url(images/building.svg) no-repeat center center/cover;
   z-index: -1;
   opacity: 0.4;
 }
